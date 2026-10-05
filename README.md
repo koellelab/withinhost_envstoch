@@ -1,7 +1,6 @@
 # withinhost_envstoch
 
-This repository contains the inference code and the simulated data sets for the Virus Evolution publication titled "Environmental stochasticity can account for patterns of within-host respiratory virus evolution" by Xiao et al. (2026).This repository contains the inference code and the simulated data sets for the Virus Evolution publication titled "Environmental stochasticity can account for patterns of within-host respiratory virus evolution" by Xiao et al. (2026).
-
+This repository contains the inference code and the simulated data sets for the Virus Evolution publication titled "Environmental stochasticity can account for patterns of within-host respiratory virus evolution" by Xiao et al. (2026).
 
 
 The analysis fits a logit-scale Brownian-motion model of environmental stochasticity to paired within-host variant frequency measurements. We show that environmental stochasticity can reproduce key features of empirically observed allele frequency changes. 
